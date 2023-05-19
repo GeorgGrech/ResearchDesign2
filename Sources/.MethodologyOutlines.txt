@@ -1,0 +1,10 @@
+Mnih2013 - Training a DRL agent to play Atari 2600 games, then comparing performance to a human player
+
+Firoiu2017 - Training a DRL agent in Smash Bros against in-game AI, improving it with self-play, then playing against human pro players
+OpenAI2019 - Training a self-play agent to play Dota 2 over the course of 10 months, then competing against the world champion team
+
+Baby2019 - Using Unity ML-agents to train an agent to play connect 4, then pitting it against a human player
+Adi2021 - Using Unity ML-agents to train an agent to play a fighting game, observing qualities of itself and opponent
+
+Glavin2018 - Training an agent that saves checkpoints against an in-game bot, then using dynamic adjustment to play against bots of all difficulties
+Arulraj2010 - Pitting a dynamically adjusting machine learning agent against players of differing skill levels
