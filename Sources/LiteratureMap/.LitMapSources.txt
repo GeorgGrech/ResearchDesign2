@@ -1,5 +1,5 @@
-[8] sutton & barto RL
-[9] Deep Learning w/ Mindspore
-[10] Gurney Neural Networks
-[11] The advance of DL and DRL
-[12] Flow
+[9] sutton & barto RL
+[10] Deep Learning w/ Mindspore
+[11] Gurney Neural Networks
+[12] The advance of DL and DRL
+[13] Flow
