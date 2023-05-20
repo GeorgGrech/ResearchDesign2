@@ -8,3 +8,5 @@ Adi2021 - Using Unity ML-agents to train an agent to play a fighting game, obser
 
 Glavin2018 - Training an agent that saves checkpoints against an in-game bot, then using dynamic adjustment to play against bots of all difficulties
 Arulraj2010 - Pitting a dynamically adjusting machine learning agent against players of differing skill levels
+
+Silva2016 - A DDA paper in which players were given different versions of a game to play and then given a post-test interview
