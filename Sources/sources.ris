@@ -1,0 +1,170 @@
+TY  - BOOK
+AB  - Eighth edition. Revised edition of the authors' Research methods for business students, 2015. First published under the Pitman Publishing imprint in 1997. "This accessible and clearly written textbook provides a comprehensive and in-depth treatment of philosophical, methodological and ethical aspects of conducting business and management research. Illustrative case studies drawing on published research studies are used throughout and readers are given multiple opportunities to consolidate their learning through review and discussion questions, quizzes, and other exercises. At the end of each chapter a case study takes the reader through the realities and practicalities of applying the knowledge to a specific student research project. This will be an invaluable guide for all students seeking to understand and undertake business and management research." -- back cover Publisher's acknowledgements -- Business and management research, reflective diaries and the purpose of this book -- Formulating and clarifying the research topic -- Critically reviewing the literature -- Understanding research philosophy and approaches to theory development -- Formulating the research design -- Negotiating access and research ethics -- Selecting samples -- Utilising secondary data -- Collecting data through observation -- Collecting primary data using research interviews and research diaries -- Collecting primary data using questionnaires -- Analysing data quantitatively -- Analysing data qualitatively -- Writing and presenting your project report -- Bibliography -- Appendices -- Glossary -- Index.
+AU  - Saunders, M. N. K.
+AU  - Lewis, Philip
+AU  - Thornhill, Adrian
+PY  - 2007
+SN  - 9781292208787
+TI  - Research methods for business students
+ER  -
+TY  - JOUR
+AB  - We present the first deep learning model to successfully learn control policies directly from high-dimensional sensory input using reinforcement learning. The model is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards. We apply our method to seven Atari 2600 games from the Arcade Learning Environment, with no adjustment of the architecture or learning algorithm. We find that it outperforms all previous approaches on six of the games and surpasses a human expert on three of them.
+AU  - Mnih, Volodymyr
+AU  - Kavukcuoglu, Koray
+AU  - Silver, David
+AU  - Graves, Alex
+AU  - Antonoglou, Ioannis
+AU  - Wierstra, Daan
+AU  - Riedmiller, Martin
+DA  - 2013/12//
+PY  - 2013
+TI  - Playing Atari with Deep Reinforcement Learning
+UR  - http://arxiv.org/abs/1312.5602
+ER  -
+TY  - JOUR
+AB  - There has been a recent explosion in the capabilities of game-playing artificial intelligence. Many classes of RL tasks, from Atari games to motor control to board games, are now solvable by fairly generic algorithms, based on deep learning, that learn to play from experience with minimal knowledge of the specific domain of interest. In this work, we will investigate the performance of these methods on Super Smash Bros. Melee (SSBM), a popular console fighting game. The SSBM environment has complex dynamics and partial observability, making it challenging for human and machine alike. The multi-player aspect poses an additional challenge, as the vast majority of recent advances in RL have focused on single-agent environments. Nonetheless, we will show that it is possible to train agents that are competitive against and even surpass human professionals, a new result for the multi-player video game setting.
+AU  - Firoiu, Vlad
+AU  - Whitney, William F.
+AU  - Tenenbaum, Joshua B.
+DA  - 2017/2//
+PY  - 2017
+TI  - Beating the World's Best at Super Smash Bros. with Deep Reinforcement Learning
+UR  - http://arxiv.org/abs/1702.06230
+ER  -
+TY  - JOUR
+AB  - On April 13th, 2019, OpenAI Five became the first AI system to defeat the world champions at an esports game. The game of Dota 2 presents novel challenges for AI systems such as long time horizons, imperfect information, and complex, continuous state-action spaces, all challenges which will become increasingly central to more capable AI systems. OpenAI Five leveraged existing reinforcement learning techniques, scaled to learn from batches of approximately 2 million frames every 2 seconds. We developed a distributed training system and tools for continual training which allowed us to train OpenAI Five for 10 months. By defeating the Dota 2 world champion (Team OG), OpenAI Five demonstrates that self-play reinforcement learning can achieve superhuman performance on a difficult task.
+AU  - OpenAI
+AU  - :
+AU  - Berner, Christopher
+AU  - Brockman, Greg
+AU  - Chan, Brooke
+AU  - Cheung, Vicki
+AU  - Dębiak, Przemysław
+AU  - Dennison, Christy
+AU  - Farhi, David
+AU  - Fischer, Quirin
+AU  - Hashme, Shariq
+AU  - Hesse, Chris
+AU  - Józefowicz, Rafal
+AU  - Gray, Scott
+AU  - Olsson, Catherine
+AU  - Pachocki, Jakub
+AU  - Petrov, Michael
+AU  - Pinto, Henrique P. d. O.
+AU  - Raiman, Jonathan
+AU  - Salimans, Tim
+AU  - Schlatter, Jeremy
+AU  - Schneider, Jonas
+AU  - Sidor, Szymon
+AU  - Sutskever, Ilya
+AU  - Tang, Jie
+AU  - Wolski, Filip
+AU  - Zhang, Susan
+DA  - 2019/12//
+PY  - 2019
+TI  - Dota 2 with Large Scale Deep Reinforcement Learning
+UR  - http://arxiv.org/abs/1912.06680
+ER  -
+TY  - CONF
+AB  - A video game is a natural and valuable medium to test AI algorithms since this virtual environment is considered safe and controllable. The finite state machine is a common technique used in developing AI in games, using a predetermined action for each situation. The problem with a predetermined action is that the scripted behaviours are predictable and easily exploit by human players. Such settings cause the game to have repetitive gameplay, leading the player to lose interest since the player knows how the AI will behave. The primary approach of this project is to use reinforcement learning to train the agent for the game. Reinforcement learning algorithms learn what to do and map the situations to maximize the cumulative reward signal from the agent environment. The agent in this project will receive raw data from the environment as input, and the agent will then act based on the environment rather than predetermined action. The results show that lowering the learning rate in deep reinforcement learning can increase the cumulative reward for the agent. This project's findings will be helpful for the game developers in developing AI for their games and benefit the game players who will interact with the AI in those games.
+AU  - Bin Ramlan, Adi Aiman
+AU  - Ali, Azliza Mohd
+AU  - Abdul Hamid, Nurzeatul Hamimah
+AU  - Osman, Rozianawaty
+DA  - 2021/9//
+DO  - 10.1109/ISAMSR53229.2021.9567749
+KW  - Artificial Intelligence
+KW  - Fighting Game
+KW  - Reinforcement Learning
+KW  - Unity ML-Agent
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SN  - 9781728166544
+SP  - 96
+EP  - 100
+TI  - The Implementation of Reinforcement Learning Algorithm for AI Bot in Fighting Video Game
+T2  - Proceedings - ISAMSR 2021: 4th International Symposium on Agents, Multi-Agents Systems and Robotics
+ER  -
+TY  - RPRT
+AU  - Baby, Nirmal
+AU  - Goswami, Bhargavi
+PY  - 2019
+TI  - Implementing Artificial Intelligence Agent Within Connect 4 Using Unity 3d and Machine Learning Concepts
+ER  -
+TY  - CONF
+AB  - "IEEE Catalog Number CFP18CIG-ART"--PDF copyright page
+AU  - Glavin, Frank G.
+AU  - Madden, Micahel G.
+PY  - 2018
+SN  - 9781538643594
+SP  - 1
+EP  - 8
+TI  - Skilled Experience Catalogue: A Skill-Balancing
+Mechanism for Non-Player Characters using
+Reinforcement Learning
+T2  - 2018 IEEE Conference on Computational Intelligence and Games (CIG)
+ER  -
+TY  - JOUR
+AB  - This paper addresses the dynamic difficulty adjustment on MOBA games as a way to improve the players entertainment. Although MOBA is currently one of the most played genres around the world, it is known as a game that offer less autonomy, more challenges and consequently more frustration. Due to these characteristics, the use of a mechanism that performs the difficulty balance dynamically seems to be an interesting alternative to minimize and/or avoid that players experience such frustrations. In this sense, this paper presents a dynamic difficulty adjustment mechanism for MOBA games. The main idea is to create a computer controlled opponent that adapts dynamically to the player performance, trying to offer to the player a better game experience. This is done by evaluating the performance of the player using a metric based on some game features and switching the difficulty of the opponent's artificial intelligence behavior accordingly. Quantitative and qualitative experiments were performed and the results showed that the system is capable of adapting dynamically to the opponent's skills. In spite of that, the qualitative experiments with users showed that the player's expertise has a greater influence on the perception of the difficulty level and dynamic adaptation.
+AU  - Silva, Mirna Paula
+AU  - Silva, Victor do Nascimento
+AU  - Chaimowicz, Luiz
+DA  - 2017/1//
+DO  - 10.1016/j.entcom.2016.10.002
+KW  - Artificial intelligence
+KW  - Digital games
+KW  - Dynamic difficulty adjustment
+KW  - Dynamic difficulty balance
+KW  - Entertainment
+KW  - MOBA
+PB  - Elsevier B.V.
+PY  - 2017
+SP  - 103
+EP  - 123
+TI  - Dynamic difficulty adjustment on MOBA games
+T2  - Entertainment Computing
+VL  - 18
+ER  -
+TY  - BOOK
+AU  - Sutton, Richard S
+AU  - Barto, Andrew G
+PY  - 1998
+TI  - Reinforcement Learning: An Introduction
+ER  -
+TY  - RPRT
+AU  - Chen, Lei
+DO  - https://doi.org/10.1007/978-981-16-2233-5
+PY  - 2021
+SN  - ISBN 978-981-16-2232-8
+TI  - Cognitive Intelligence and Robotics Deep Learning and Practice with MindSpore
+UR  - http://www.springer.com/series/15488
+ER  -
+TY  - RPRT
+AU  - Gurney, Kevin
+PY  - 1997
+TI  - An introduction to neural networks
+ER  -
+TY  - CONF
+AB  - Reinforcement learning is one of the leading research fields of artificial intelligence. Unlike other machine learning methods, reinforcement learning is learning from the environment to action mappings. Thus, the chosen action could maximize the accumulated reward value from the environment and develop an optimal strategy via trial-and-error. In recent years, the achievements of deep reinforcement learning represented by AlphaGo have attracted wide attention from researchers. This paper first introduces the development of reinforcement learning, including classic reinforcement learning methods and deep reinforcement learning methods. Then, this paper discusses the advanced reinforcement learning work at present, including distributed deep reinforcement learning algorithms, deep reinforcement learning methods based on fuzzy theory, Large-Scale Study of Curiosity-Driven Learning, and so on. Finally, this essay discusses the challenges faced by reinforcement learning.
+AU  - Lyu, Le
+AU  - Shen, Yang
+AU  - Zhang, Sicheng
+DO  - 10.1109/EEBDA53927.2022.9744760
+KW  - Deep Learning
+KW  - Distributed System
+KW  - Neural Network
+KW  - Q-Learning
+KW  - Reinforcement Learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2022
+SN  - 9781665416061
+SP  - 644
+EP  - 648
+TI  - The Advance of Reinforcement Learning and Deep Reinforcement Learning
+T2  - 2022 IEEE International Conference on Electrical Engineering, Big Data and Algorithms, EEBDA 2022
+ER  -
+TY  - BOOK
+AU  - Csikszentmihalyi, Mihaly
+PY  - 1991
+TI  - Flow The Psychology of Optimal Experience
+ER  -
